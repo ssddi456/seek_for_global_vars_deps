@@ -1,0 +1,27 @@
+{
+  "name": "seek_for_global_vars_deps",
+  "version": "0.0.0",
+  "description": "seek_for_global_vars_deps\r =========================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ssddi456/seek_for_global_vars_deps.git"
+  },
+  "author": "",
+  "license": "BSD",
+  "readmeFilename": "README.md",
+  "gitHead": "e562ec86708d6bd46161784d327bad8379b9822b",
+  "bugs": {
+    "url": "https://github.com/ssddi456/seek_for_global_vars_deps/issues"
+  },
+  "dependencies" : {
+    "uglify-js" : "latest",
+    "async" : "latest"
+  },
+  "engine" :{
+    "node" : "0.8.23"
+  } 
+}
